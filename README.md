@@ -39,7 +39,7 @@ The DTO framework outperformed standard Regressive and baseline Transformer mode
 | **Transformer (Baseline)** | 0.50 | 0.81 |
 | **DTO-Transformer (Ours)** | **0.72** | **0.87** |
 
-![Confusion Matrix Comparison](assets/results_comparison.png)
+![Result Comparison](assets/results_comparison.png)
 *Figure 3: Comparison of misclassification rates between static and dynamic thresholding.*
 
 ---
@@ -51,10 +51,10 @@ The DTO framework outperformed standard Regressive and baseline Transformer mode
 * **Tools:** Python, NumPy, Pandas, Matplotlib.
 
 ## 📁 Repository Structure
-* **`src/`**: Implementation of the DTO layer and Transformer architecture.
-* **`Data/`**: Pre-processed geospatial datasets.
-* **`Notebooks/`**: Training pipelines and hyperparameter tuning.
-* **`Models/`**: Trained weights for the DTO-Transformer.
+* Implementation of the DTO layer and Transformer architecture.
+* Pre-processed geospatial datasets.
+* Training pipelines and hyperparameter tuning.
+* Trained weights for the DTO-Transformer.
 
 ---
 
