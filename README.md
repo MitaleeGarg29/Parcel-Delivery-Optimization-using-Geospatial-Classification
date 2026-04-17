@@ -1,5 +1,5 @@
 # 🌍 Differentiable Threshold Optimization (DTO) for Transformer Models
-### Advanced Geospatial Classification | Master's Thesis @ TU Darmstadt
+### Advanced Geospatial Classification 
 
 ## 💡 The Problem: The "Failed Delivery" Crisis
 In logistics, failed deliveries contribute to **1 billion extra miles** and massive carbon emissions annually. Standard classification models use a fixed decision threshold (0.5), which is often sub-optimal for complex, noisy geospatial data. 
