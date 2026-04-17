@@ -1,0 +1,8 @@
+Here
+
+training epochs 100
+trained with each individual users metrics
+overall optimal threshold = 0.0.6269352436065674
+Overall max f1 score 0.8500621497631073
+
+so while evaluating in def evaluate function I changed pot processing threshold to 0.63

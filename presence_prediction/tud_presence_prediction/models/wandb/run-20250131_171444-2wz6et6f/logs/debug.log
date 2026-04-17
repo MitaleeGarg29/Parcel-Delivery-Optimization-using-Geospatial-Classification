@@ -1,0 +1,37 @@
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_setup.py:_flush():79] Configure stats pid to 15292
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_setup.py:_flush():79] Loading settings from C:\Users\Admin\.config\wandb\settings
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_setup.py:_flush():79] Loading settings from d:\TU Darmstadt\Thesis\presence_prediction\tud_presence_prediction\models\wandb\settings
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_init.py:_log_setup():533] Logging user logs to d:\TU Darmstadt\Thesis\presence_prediction\tud_presence_prediction\models\wandb\run-20250131_171444-2wz6et6f\logs\debug.log
+2025-01-31 17:14:44,222 INFO    MainThread:15292 [wandb_init.py:_log_setup():534] Logging internal logs to d:\TU Darmstadt\Thesis\presence_prediction\tud_presence_prediction\models\wandb\run-20250131_171444-2wz6et6f\logs\debug-internal.log
+2025-01-31 17:14:44,223 INFO    MainThread:15292 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001F973CE8910>
+2025-01-31 17:14:44,223 INFO    MainThread:15292 [wandb_init.py:init():619] calling init triggers
+2025-01-31 17:14:44,223 INFO    MainThread:15292 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2025-01-31 17:14:44,223 INFO    MainThread:15292 [wandb_init.py:init():669] starting backend
+2025-01-31 17:14:44,223 INFO    MainThread:15292 [wandb_init.py:init():673] sending inform_init request
+2025-01-31 17:14:44,226 INFO    MainThread:15292 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2025-01-31 17:14:44,226 INFO    MainThread:15292 [wandb_init.py:init():686] backend started and connected
+2025-01-31 17:14:44,232 INFO    MainThread:15292 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2025-01-31 17:14:44,271 INFO    MainThread:15292 [wandb_init.py:init():781] updated telemetry
+2025-01-31 17:14:44,274 INFO    MainThread:15292 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2025-01-31 17:14:44,678 INFO    MainThread:15292 [wandb_init.py:init():867] starting run threads in backend
+2025-01-31 17:14:44,943 INFO    MainThread:15292 [wandb_run.py:_console_start():2451] atexit reg
+2025-01-31 17:14:44,943 INFO    MainThread:15292 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2025-01-31 17:14:44,943 INFO    MainThread:15292 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2025-01-31 17:14:44,943 INFO    MainThread:15292 [wandb_run.py:_redirect():2389] Redirects installed.
+2025-01-31 17:14:44,944 INFO    MainThread:15292 [wandb_init.py:init():911] run started, returning control to user process
+2025-01-31 17:14:45,249 INFO    MainThread:15292 [wandb_run.py:_finish():2146] finishing run mitalee-garg-tu-darmstadt/auc_pr_tracking/2wz6et6f
+2025-01-31 17:14:45,250 ERROR   MainThread:15292 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2025-01-31 17:14:45,250 INFO    MainThread:15292 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-01-31 17:14:45,251 INFO    MainThread:15292 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2025-01-31 17:14:45,251 INFO    MainThread:15292 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2025-01-31 17:14:45,252 INFO    MainThread:15292 [wandb_run.py:_restore():2396] restore
+2025-01-31 17:14:45,252 INFO    MainThread:15292 [wandb_run.py:_restore():2402] restore done
+2025-01-31 17:14:47,089 INFO    MainThread:15292 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2025-01-31 17:14:47,089 INFO    MainThread:15292 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2025-01-31 17:14:47,096 INFO    MainThread:15292 [wandb_run.py:_footer_sync_info():3922] logging synced files

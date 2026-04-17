@@ -1,0 +1,416 @@
+Available columns: Index(['train_precision_step', 'train_optimal_threshold_step', 'epoch',
+       'train_recall_step', 'train_best_f1_step', 'train_auc_pr_step',
+       'train_loss_step', 'train_accuracy_step', 'lr-AdamW', 'step',
+       ...
+       'train_precision/user_9', 'train_precision/user_6',
+       'train_recall_epoch', 'train_loss/user_8', 'train_best_f1/user_2',
+       'train_loss/user_0', 'train_recall/user_6', 'train_best_f1/user_11',
+       'train_precision/user_2', 'train_precision/user_10'],
+      dtype='object', length=129)
+Number of NaN values in 'epoch': 10302
+Positions of NaN values (first 10 if many): [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+Distinct values of 'epoch' and 'train_loss/user_1':
+        epoch  train_loss/user_0  train_loss/user_1  train_loss/user_2  \
+205      0.0           1.285129           1.157745           1.238413
+411      1.0           1.198934           1.095387           1.242083
+617      2.0           1.161930           1.147594           1.131921
+823      3.0           1.127705           1.156250           1.150437
+1029     4.0           1.125789           1.085216           1.099354
+...      ...                ...                ...                ...
+19981   96.0           0.361063           0.476309           0.469308
+20187   97.0           0.371009           0.816260           0.355574
+20393   98.0           0.406525           0.570107           0.386989
+20599   99.0           0.611683           0.451170           0.536711
+20805  100.0           0.595587           0.409722           0.535687
+
+       train_loss/user_3  train_loss/user_4  train_loss/user_5  \
+205             1.103481           1.431959           1.319985
+411             1.163364           1.184027           1.240815
+617             1.087010           1.192144           1.226328
+823             1.081517           1.051457           1.113879
+1029            1.102919           1.062602           1.160694
+...                  ...                ...                ...
+19981           0.390059           0.600775           0.411704
+20187           0.357670           0.639732           0.395091
+20393           0.411003           0.651237           0.452687
+20599           0.406185           0.477878           0.435510
+20805           0.364932           0.415647           0.455898
+
+       train_loss/user_6  train_loss/user_7  train_loss/user_8  \
+205             1.228141           1.423034           1.304274
+411             1.194389           1.132310           1.173153
+617             1.156967           1.112073           1.191519
+823             1.176459           1.146047           1.163269
+1029            1.130625           1.047718           1.146312
+...                  ...                ...                ...
+19981           0.451753           0.292983           0.363924
+20187           0.394599           0.362336           0.406967
+20393           0.392782           0.402156           0.399452
+20599           0.427516           0.469491           0.495765
+20805           0.414919           0.384484           0.457395
+
+       train_loss/user_9  train_loss/user_10  train_loss/user_11  \
+205             1.172148            1.345645            1.321139
+411             1.116081            1.166410            1.188991
+617             1.120835            1.090052            1.195160
+823             1.077402            1.060862            1.143346
+1029            1.037563            1.063230            1.031849
+...                  ...                 ...                 ...
+19981           0.371704            0.478956            0.602179
+20187           0.452623            0.417785            0.461104
+20393           0.358106            0.419537            0.446242
+20599           0.305600            0.314723            0.518443
+20805           0.418990            0.288103            0.420396
+
+       train_loss/user_12
+205              1.514025
+411              1.165357
+617              1.146738
+823              1.057692
+1029             1.256214
+...                   ...
+19981            0.458994
+20187            0.336094
+20393            0.348134
+20599            0.313156
+20805            0.419171
+
+[101 rows x 14 columns]
+Distinct values of 'epoch' and 'train_best_f1/user_1':
+        epoch  train_best_f1/user_0  train_best_f1/user_1  \
+205      0.0              0.471767              0.412821
+411      1.0              0.523956              0.377267
+617      2.0              0.557385              0.501288
+823      3.0              0.587430              0.556897
+1029     4.0              0.620610              0.603954
+...      ...                   ...                   ...
+19981   96.0              0.887477              0.867720
+20187   97.0              0.935363              0.776828
+20393   98.0              0.824626              0.818956
+20599   99.0              0.857142              0.879205
+20805  100.0              0.846555              0.906939
+
+       train_best_f1/user_2  train_best_f1/user_3  train_best_f1/user_4  \
+205                0.457173              0.388301              0.552863
+411                0.606193              0.466035              0.538161
+617                0.543193              0.494478              0.610827
+823                0.610131              0.618755              0.707689
+1029               0.599650              0.456862              0.644774
+...                     ...                   ...                   ...
+19981              0.872141              0.863670              0.824160
+20187              0.871048              0.840811              0.844475
+20393              0.895699              0.894664              0.799434
+20599              0.867601              0.802781              0.856265
+20805              0.807840              0.892175              0.899610
+
+       train_best_f1/user_5  train_best_f1/user_6  train_best_f1/user_7  \
+205                0.519450              0.450551              0.542673
+411                0.588506              0.507278              0.402108
+617                0.580667              0.517682              0.450674
+823                0.563910              0.576650              0.623392
+1029               0.626743              0.587038              0.767820
+...                     ...                   ...                   ...
+19981              0.883387              0.846224              0.852329
+20187              0.891786              0.879426              0.874211
+20393              0.875533              0.908102              0.818944
+20599              0.901715              0.879303              0.843240
+20805              0.882139              0.887338              0.868279
+
+       train_best_f1/user_8  train_best_f1/user_9  train_best_f1/user_10  \
+205                0.481211              0.432630               0.488536
+411                0.476462              0.391043               0.468400
+617                0.491773              0.555529               0.531681
+823                0.524346              0.638872               0.583615
+1029               0.641081              0.547642               0.686089
+...                     ...                   ...                    ...
+19981              0.877700              0.820267               0.806062
+20187              0.831502              0.836257               0.885513
+20393              0.871118              0.896575               0.771160
+20599              0.847741              0.842607               0.870233
+20805              0.832561              0.766514               0.921950
+
+       train_best_f1/user_11  train_best_f1/user_12
+205                 0.497269               0.563092
+411                 0.498689               0.504328
+617                 0.557724               0.562762
+823                 0.508738               0.680006
+1029                0.628766               0.606209
+...                      ...                    ...
+19981               0.789916               0.875890
+20187               0.857581               0.750032
+20393               0.838548               0.738487
+20599               0.828866               0.899595
+20805               0.874112               0.885538
+
+[101 rows x 14 columns]
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3284437710.py:22: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, marker='o', ci=None, lowess=True)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\3872764743.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\249294930.py:24: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[precision_col], label=precision_col, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1377955860.py:20: FutureWarning:
+
+The `ci` parameter is deprecated. Use `errorbar=None` for the same effect.
+
+  sns.lineplot(x=filtered_df['epoch'], y=filtered_df[recall_col], label=recall_col, errorbar=None, ci=None)
+Distinct values of 'epoch' and 'train_best_f1/user_1':
+        epoch  train_best_f1/user_0  train_best_f1/user_1  \
+205      0.0              0.471767              0.412821
+411      1.0              0.523956              0.377267
+617      2.0              0.557385              0.501288
+823      3.0              0.587430              0.556897
+1029     4.0              0.620610              0.603954
+...      ...                   ...                   ...
+19981   96.0              0.887477              0.867720
+20187   97.0              0.935363              0.776828
+20393   98.0              0.824626              0.818956
+20599   99.0              0.857142              0.879205
+20805  100.0              0.846555              0.906939
+
+       train_best_f1/user_2  train_best_f1/user_3  train_best_f1/user_4  \
+205                0.457173              0.388301              0.552863
+411                0.606193              0.466035              0.538161
+617                0.543193              0.494478              0.610827
+823                0.610131              0.618755              0.707689
+1029               0.599650              0.456862              0.644774
+...                     ...                   ...                   ...
+19981              0.872141              0.863670              0.824160
+20187              0.871048              0.840811              0.844475
+20393              0.895699              0.894664              0.799434
+20599              0.867601              0.802781              0.856265
+20805              0.807840              0.892175              0.899610
+
+       train_best_f1/user_5  train_best_f1/user_6  train_best_f1/user_7  \
+205                0.519450              0.450551              0.542673
+411                0.588506              0.507278              0.402108
+617                0.580667              0.517682              0.450674
+823                0.563910              0.576650              0.623392
+1029               0.626743              0.587038              0.767820
+...                     ...                   ...                   ...
+19981              0.883387              0.846224              0.852329
+20187              0.891786              0.879426              0.874211
+20393              0.875533              0.908102              0.818944
+20599              0.901715              0.879303              0.843240
+20805              0.882139              0.887338              0.868279
+
+       train_best_f1/user_8  train_best_f1/user_9  train_best_f1/user_10  \
+205                0.481211              0.432630               0.488536
+411                0.476462              0.391043               0.468400
+617                0.491773              0.555529               0.531681
+823                0.524346              0.638872               0.583615
+1029               0.641081              0.547642               0.686089
+...                     ...                   ...                    ...
+19981              0.877700              0.820267               0.806062
+20187              0.831502              0.836257               0.885513
+20393              0.871118              0.896575               0.771160
+20599              0.847741              0.842607               0.870233
+20805              0.832561              0.766514               0.921950
+
+       train_best_f1/user_11  train_best_f1/user_12
+205                 0.497269               0.563092
+411                 0.498689               0.504328
+617                 0.557724               0.562762
+823                 0.508738               0.680006
+1029                0.628766               0.606209
+...                      ...                    ...
+19981               0.789916               0.875890
+20187               0.857581               0.750032
+20393               0.838548               0.738487
+20599               0.828866               0.899595
+20805               0.874112               0.885538
+
+[101 rows x 14 columns]
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\1719608389.py:26: UserWarning: No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+  plt.legend(fontsize=10, loc='upper right')
+C:\Users\Admin\AppData\Local\Temp\ipykernel_27780\2228950863.py:26: UserWarning: No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+  plt.legend(fontsize=10, loc='upper right')

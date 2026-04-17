@@ -1,0 +1,72 @@
+Available columns: Index(['train_accuracy_step', 'train_precision_step', 'step',
+       'train_TimeSeriesLoss_step', 'epoch', 'lr-AdamW', 'train_loss_step',
+       'val_precision/user_0', 'val_optimal_threshold/user_2',
+       'val_best_f1/user_8',
+       ...
+       'train_best_f1/user_12', 'train_optimal_threshold/user_12',
+       'train_precision/user_12', 'train_optimal_threshold/user_10',
+       'train_best_f1/user_10', 'train_recall/user_10', 'train_loss/user_10',
+       'train_loss/user_12', 'train_precision/user_10',
+       'train_recall/user_12'],
+      dtype='object', length=158)
+Distinct values of 'epoch' and 'train_best_f1/user_1':
+        epoch  train_best_f1/user_0  train_best_f1/user_1  \
+9359   116.0              0.822068              0.818138
+10639  132.0              0.846423              0.799544
+10879  135.0              0.851376              0.835859
+13839  172.0              0.844325              0.824181
+14159  176.0              0.855776              0.798397
+
+       train_best_f1/user_2  train_best_f1/user_3  train_best_f1/user_4  \
+9359               0.842271              0.883882              0.823388
+10639              0.878196              0.785586              0.877385
+10879              0.819600              0.793028              0.819330
+13839              0.861291              0.820327              0.874259
+14159              0.869767              0.852359              0.870942
+
+       train_best_f1/user_5  train_best_f1/user_6  train_best_f1/user_7  \
+9359               0.851204              0.825077              0.838160
+10639              0.824726              0.779426              0.801486
+10879              0.848238              0.838340              0.833689
+13839              0.869427              0.870159              0.846258
+14159              0.869093              0.863535              0.842017
+
+       train_best_f1/user_8  train_best_f1/user_9  train_best_f1/user_10  \
+9359               0.807156              0.710000               0.814549
+10639              0.807637              0.875000               0.898413
+10879              0.833049              0.851528               0.831978
+13839              0.774387              0.894239               0.809152
+14159              0.861945              0.825197               0.762162
+
+       train_best_f1/user_11  train_best_f1/user_12
+9359                0.716576               0.786982
+10639               0.821888               0.871863
+10879               0.840659               0.789960
+13839               0.859268               0.748918
+14159               0.822188               0.857143
+Optimal Thresholds and Max F1 Scores for Each User:
+User 0 -> Epoch: 191.0, Optimal Threshold: 0.6500, Max F1: 0.9061
+User 1 -> Epoch: 175.0, Optimal Threshold: 0.5400, Max F1: 0.8747
+User 2 -> Epoch: 70.0, Optimal Threshold: 0.6000, Max F1: 0.9204
+User 3 -> Epoch: 196.0, Optimal Threshold: 0.7600, Max F1: 0.9667
+User 4 -> Epoch: 196.0, Optimal Threshold: 0.5650, Max F1: 0.8795
+User 5 -> Epoch: 177.0, Optimal Threshold: 0.5350, Max F1: 0.8828
+User 6 -> Epoch: 195.0, Optimal Threshold: 0.6050, Max F1: 0.9083
+User 7 -> Epoch: 165.0, Optimal Threshold: 0.4600, Max F1: 0.9123
+User 8 -> Epoch: 183.0, Optimal Threshold: 0.6420, Max F1: 0.8959
+User 9 -> Epoch: 140.0, Optimal Threshold: 0.3400, Max F1: 0.9286
+User 10 -> Epoch: 155.0, Optimal Threshold: 0.7000, Max F1: 0.9057
+User 11 -> Epoch: 149.0, Optimal Threshold: 0.6400, Max F1: 0.9215
+Optimal Thresholds and Max F1 Scores for Each User:
+User 0 -> Epoch: 191.0, Optimal Threshold: 0.6500, Max F1: 0.9061
+User 1 -> Epoch: 175.0, Optimal Threshold: 0.5400, Max F1: 0.8747
+User 2 -> Epoch: 70.0, Optimal Threshold: 0.6000, Max F1: 0.9204
+User 3 -> Epoch: 196.0, Optimal Threshold: 0.7600, Max F1: 0.9667
+User 4 -> Epoch: 196.0, Optimal Threshold: 0.5650, Max F1: 0.8795
+User 5 -> Epoch: 177.0, Optimal Threshold: 0.5350, Max F1: 0.8828
+User 6 -> Epoch: 195.0, Optimal Threshold: 0.6050, Max F1: 0.9083
+User 7 -> Epoch: 165.0, Optimal Threshold: 0.4600, Max F1: 0.9123
+User 8 -> Epoch: 183.0, Optimal Threshold: 0.6420, Max F1: 0.8959
+User 9 -> Epoch: 140.0, Optimal Threshold: 0.3400, Max F1: 0.9286
+User 10 -> Epoch: 155.0, Optimal Threshold: 0.7000, Max F1: 0.9057
+User 11 -> Epoch: 149.0, Optimal Threshold: 0.6400, Max F1: 0.9215

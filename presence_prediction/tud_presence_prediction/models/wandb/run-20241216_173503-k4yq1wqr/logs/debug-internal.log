@@ -1,0 +1,9 @@
+{"time":"2024-12-16T17:35:06.0025368+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-12-16T17:35:06.0025368+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241216_173503-k4yq1wqr\\logs\\debug-core.log"}
+{"time":"2024-12-16T17:35:06.1159077+01:00","level":"INFO","msg":"created new stream","id":"k4yq1wqr"}
+{"time":"2024-12-16T17:35:06.1159077+01:00","level":"INFO","msg":"stream: started","id":"k4yq1wqr"}
+{"time":"2024-12-16T17:35:06.1159077+01:00","level":"INFO","msg":"sender: started","stream_id":"k4yq1wqr"}
+{"time":"2024-12-16T17:35:06.1159077+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"k4yq1wqr"}}
+{"time":"2024-12-16T17:35:06.1159077+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"k4yq1wqr"}}
+{"time":"2024-12-16T17:35:06.4072296+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T19:23:35.3135584+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.2.104:53392->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}

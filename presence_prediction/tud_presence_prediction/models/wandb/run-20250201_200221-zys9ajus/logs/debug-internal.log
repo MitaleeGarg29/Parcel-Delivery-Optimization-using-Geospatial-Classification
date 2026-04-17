@@ -1,0 +1,20 @@
+{"time":"2025-02-01T20:02:23.0417492+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-02-01T20:02:23.0417492+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20250201_200221-zys9ajus\\logs\\debug-core.log"}
+{"time":"2025-02-01T20:02:23.1595089+01:00","level":"INFO","msg":"created new stream","id":"zys9ajus"}
+{"time":"2025-02-01T20:02:23.1595089+01:00","level":"INFO","msg":"stream: started","id":"zys9ajus"}
+{"time":"2025-02-01T20:02:23.1595089+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zys9ajus"}}
+{"time":"2025-02-01T20:02:23.1595089+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"zys9ajus"}}
+{"time":"2025-02-01T20:02:23.1595089+01:00","level":"INFO","msg":"sender: started","stream_id":"zys9ajus"}
+{"time":"2025-02-01T20:02:23.5110534+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-01T20:11:37.2135419+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-01T20:11:37.2140458+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-01T20:11:37.7725054+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-01T20:11:37.7725054+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-01T20:11:37.7725054+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-01T20:11:38.2184043+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.2090662,"progress":"461B/461B"},{"desc":"uploading output.log","runtime_seconds":0.2090662,"progress":"4.2KB/4.2KB"}],"total_operations":2}}
+{"time":"2025-02-01T20:11:38.2569602+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-01T20:11:39.5332335+01:00","level":"INFO","msg":"stream: closing","id":"zys9ajus"}
+{"time":"2025-02-01T20:11:39.5332335+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"zys9ajus"}}
+{"time":"2025-02-01T20:11:39.5332335+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zys9ajus"}}
+{"time":"2025-02-01T20:11:39.5337521+01:00","level":"INFO","msg":"sender: closed","stream_id":"zys9ajus"}
+{"time":"2025-02-01T20:11:39.5349645+01:00","level":"INFO","msg":"stream: closed","id":"zys9ajus"}

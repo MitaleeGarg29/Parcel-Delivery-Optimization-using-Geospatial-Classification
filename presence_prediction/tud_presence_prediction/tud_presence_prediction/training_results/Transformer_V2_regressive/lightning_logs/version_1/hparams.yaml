@@ -1,0 +1,37 @@
+LR_increase_phase_percentage: 0.05
+LR_scheduler_convergence: 1.6e-05
+LR_scheduler_max: 9.0e-05
+LR_scheduler_min: 1.75e-07
+add_day_feature: false
+change_to_auto_regression: -1
+classification_layers: 1
+data_cut: 1
+empty_slot_value: -1
+fixed_learning_rate: 8.0e-05
+future_known_covariate_feature_count: 10
+future_unknown_feature_count: 2
+hidden_dim: 10
+input_dim_3: null
+log_LR: true
+optimizer_beta1: null
+optimizer_beta2: null
+pos_weight: 1
+positional_encoding: time2vec
+prediction_step_length: !!python/tuple
+- 0
+- 26
+prediction_total_length: 1
+secondary_loss_func: !!python/name:torch.nn.modules.loss.MSELoss ''
+secondary_loss_weight: 0.5
+training_mode: auto-regressive
+transformer_activiation_func: relu
+transformer_dropout: 0.1
+transformer_head_count: 4
+transformer_layer_count: 6
+transformer_layer_norm_first: false
+transformer_linear_dim: 2048
+use_LR_scheduler: true
+use_combined_loss: false
+use_mask: custom step
+use_optimizer: AdamW
+weight_decay: null

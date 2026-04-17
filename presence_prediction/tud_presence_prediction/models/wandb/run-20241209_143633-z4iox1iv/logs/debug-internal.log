@@ -1,0 +1,65 @@
+{"time":"2024-12-09T14:36:33.0846564+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-12-09T14:36:33.0846564+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241209_143633-z4iox1iv\\logs\\debug-core.log"}
+{"time":"2024-12-09T14:36:33.2077373+01:00","level":"INFO","msg":"created new stream","id":"z4iox1iv"}
+{"time":"2024-12-09T14:36:33.2077373+01:00","level":"INFO","msg":"stream: started","id":"z4iox1iv"}
+{"time":"2024-12-09T14:36:33.2077373+01:00","level":"INFO","msg":"sender: started","stream_id":"z4iox1iv"}
+{"time":"2024-12-09T14:36:33.2077373+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"z4iox1iv"}}
+{"time":"2024-12-09T14:36:33.2077373+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"z4iox1iv"}}
+{"time":"2024-12-09T14:36:33.5679638+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-09T14:36:33.9016292+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:36:33.9107512+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:36:33.9297289+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:36:33.9391871+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:36:34.9897634+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:36:35.0291756+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:36:35.8918639+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:36:35.91102+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:36:40.2379363+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:36:40.2530383+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:36:40.2686804+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:36:40.2786614+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:36:40.9099242+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:36:40.9275577+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:36:41.8822722+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:36:41.9007451+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:36:44.8559784+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:42:41.3653877+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:42:41.3699198+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:42:42.6571311+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:42:42.6613306+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:42:44.553726+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:42:44.5573293+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:42:44.6976577+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:42:44.7047715+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:42:47.2705127+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:42:47.2731263+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:43:03.7389141+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:43:08.5295008+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:43:43.0683584+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:43:43.6510941+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:44:14.3519357+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:44:15.1484779+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:44:21.2658235+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:44:25.6235891+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:44:52.8170057+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:44:53.4431933+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:44:58.9377891+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:44:59.8302497+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:45:04.9243166+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:45:09.7538921+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T15:10:29.1459206+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.18.21.88:63021->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-12-09T15:10:31.597373+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:10:34.244329+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mitalee-garg-tu-darmstadt/Parcel%20Delivery/z4iox1iv/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:10:36.0615941+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:10:36.6270166+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mitalee-garg-tu-darmstadt/Parcel%20Delivery/z4iox1iv/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:10:41.0851631+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mitalee-garg-tu-darmstadt/Parcel%20Delivery/z4iox1iv/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:10:44.540989+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:10:49.161266+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mitalee-garg-tu-darmstadt/Parcel%20Delivery/z4iox1iv/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:11:04.3704723+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:11:06.478499+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mitalee-garg-tu-darmstadt/Parcel%20Delivery/z4iox1iv/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:11:40.261379+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mitalee-garg-tu-darmstadt/Parcel%20Delivery/z4iox1iv/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:11:42.359577+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:12:40.2714048+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mitalee-garg-tu-darmstadt/Parcel%20Delivery/z4iox1iv/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:12:42.3601558+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:13:40.282001+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mitalee-garg-tu-darmstadt/Parcel%20Delivery/z4iox1iv/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T15:13:42.3624657+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}

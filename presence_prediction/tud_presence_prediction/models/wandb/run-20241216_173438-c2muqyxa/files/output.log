@@ -1,0 +1,11 @@
+Available columns: Index(['epoch', 'train_accuracy_step', 'lr-AdamW', 'train_precision_step',
+       'step', 'train_loss_step', 'val_loss/user_5', 'val_loss/user_0',
+       'val_precision/user_6', 'val_precision',
+       ...
+       'train_recall/user_12', 'train_best_f1/user_7',
+       'train_optimal_threshold/user_2', 'train_recall/user_8',
+       'train_best_f1/user_6', 'train_recall/user_0',
+       'train_optimal_threshold/user_9', 'train_optimal_threshold/user_7',
+       'train_optimal_threshold/user_8', 'train_best_f1/user_0'],
+      dtype='object', length=151)
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

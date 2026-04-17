@@ -1,0 +1,20 @@
+{"time":"2024-12-16T14:10:59.3547791+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-12-16T14:10:59.3547791+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241216_141059-bbsutjz8\\logs\\debug-core.log"}
+{"time":"2024-12-16T14:10:59.4649663+01:00","level":"INFO","msg":"created new stream","id":"bbsutjz8"}
+{"time":"2024-12-16T14:10:59.4649663+01:00","level":"INFO","msg":"stream: started","id":"bbsutjz8"}
+{"time":"2024-12-16T14:10:59.4649663+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bbsutjz8"}}
+{"time":"2024-12-16T14:10:59.4649663+01:00","level":"INFO","msg":"sender: started","stream_id":"bbsutjz8"}
+{"time":"2024-12-16T14:10:59.4649663+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"bbsutjz8"}}
+{"time":"2024-12-16T14:10:59.7139206+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T14:11:00.1194803+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T14:11:00.1194803+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T14:11:00.423027+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-12-16T14:11:00.4235471+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-12-16T14:11:00.4235471+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-16T14:11:00.8821361+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T14:11:01.0824334+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-12-16T14:11:02.0980064+01:00","level":"INFO","msg":"stream: closing","id":"bbsutjz8"}
+{"time":"2024-12-16T14:11:02.0980064+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"bbsutjz8"}}
+{"time":"2024-12-16T14:11:02.0980064+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bbsutjz8"}}
+{"time":"2024-12-16T14:11:02.0980064+01:00","level":"INFO","msg":"sender: closed","stream_id":"bbsutjz8"}
+{"time":"2024-12-16T14:11:02.0985108+01:00","level":"INFO","msg":"stream: closed","id":"bbsutjz8"}

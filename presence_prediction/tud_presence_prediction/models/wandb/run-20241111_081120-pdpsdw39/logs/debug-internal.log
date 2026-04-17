@@ -1,0 +1,30 @@
+{"time":"2024-11-11T08:11:20.2592674+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-11T08:11:20.2592674+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241111_081120-pdpsdw39\\logs\\debug-core.log"}
+{"time":"2024-11-11T08:11:20.3765025+01:00","level":"INFO","msg":"created new stream","id":"pdpsdw39"}
+{"time":"2024-11-11T08:11:20.3770061+01:00","level":"INFO","msg":"stream: started","id":"pdpsdw39"}
+{"time":"2024-11-11T08:11:20.3770061+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"pdpsdw39"}}
+{"time":"2024-11-11T08:11:20.3770061+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pdpsdw39"}}
+{"time":"2024-11-11T08:11:20.3770061+01:00","level":"INFO","msg":"sender: started","stream_id":"pdpsdw39"}
+{"time":"2024-11-11T08:11:20.9932805+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-11T08:11:21.1974715+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-11T08:15:29.9745814+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-11T08:15:31.105677+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-11T08:15:38.8535725+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-11T08:15:38.9106735+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-11T08:15:42.2949299+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-11T08:15:42.2985069+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-11T08:15:46.1558872+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-11T08:15:47.1693007+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-11T08:17:04.114765+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-11T08:17:04.3742432+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-11T08:17:04.374762+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-11T08:17:05.3017806+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-11T08:17:05.3017806+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-11T08:17:05.3017806+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-11T08:17:05.3759154+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.2427975,"progress":"425B/425B"}],"total_operations":1}}
+{"time":"2024-11-11T08:17:06.1903937+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-11T08:17:07.9310485+01:00","level":"INFO","msg":"stream: closing","id":"pdpsdw39"}
+{"time":"2024-11-11T08:17:07.9310485+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"pdpsdw39"}}
+{"time":"2024-11-11T08:17:07.9310485+01:00","level":"INFO","msg":"sender: closed","stream_id":"pdpsdw39"}
+{"time":"2024-11-11T08:17:07.9310485+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"pdpsdw39"}}
+{"time":"2024-11-11T08:17:07.9317291+01:00","level":"INFO","msg":"stream: closed","id":"pdpsdw39"}

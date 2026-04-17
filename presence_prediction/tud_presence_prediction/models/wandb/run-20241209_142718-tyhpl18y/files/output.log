@@ -1,0 +1,9 @@
+Available columns: Index(['train_precision_step', 'train_optimal_threshold_step', 'epoch',
+       'train_recall_step', 'train_best_f1_step', 'train_auc_pr_step',
+       'train_loss_step', 'train_accuracy_step', 'lr-AdamW', 'step',
+       ...
+       'train_precision/user_9', 'train_precision/user_6',
+       'train_recall_epoch', 'train_loss/user_8', 'train_best_f1/user_2',
+       'train_loss/user_0', 'train_recall/user_6', 'train_best_f1/user_11',
+       'train_precision/user_2', 'train_precision/user_10'],
+      dtype='object', length=129)

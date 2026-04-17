@@ -1,0 +1,24 @@
+
+---Starting evaluation preperation.---
+Overwriting default prediction settings with {'post_processing': 'binary percentage cutoff', 'post_processing_threshold': 0.5, 'adjust_data_length': True, 'prioritize_padding': True}.
+Average set length before threshold filtering: 90.53846153846153.
+Removing sets that have a length of less than 58.85.
+Removed 3 datasets.
+Limiting offset according to a maximum dataset size of 61 as defined by the smallest set.
+
+---Evaluating 10 datasets.---
+Varying window size from 16 to 16 days (-1 adjustment).
+Varying window offset from 0 to 44 days.
+Varying prediction length from 1 to 1 days.
+Performing up to 1 * 45 * 1 = 45 prediction variations per user.
+Skipped 0 iterations.
+Performed 450 iterations.
+
+---Accuracy results for Prediction Length, Input Length:---
+Input Length 16, Prediction Length 1: 12.149572649572653%
+
+---Precision results for Prediction Length, Input Length:---
+Input Length 16, Prediction Length 1: 89.85172130117924%
+Image stored to evaluations/Transformer_V2_Regressive-Dynamic_Multiuser-Version_4_16.12.2024.png.
+Generating animation file. This may take several minutes.
+Video stored to evaluations/Transformer_V2_Regressive-Dynamic_Multiuser-Version_4_16.12.2024.gif.

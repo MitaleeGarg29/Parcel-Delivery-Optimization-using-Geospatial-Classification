@@ -1,0 +1,30 @@
+{"time":"2025-01-31T17:02:57.8718862+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-01-31T17:02:57.8718862+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20250131_170257-fa8dkcpu\\logs\\debug-core.log"}
+{"time":"2025-01-31T17:02:58.4003513+01:00","level":"INFO","msg":"created new stream","id":"fa8dkcpu"}
+{"time":"2025-01-31T17:02:58.4003513+01:00","level":"INFO","msg":"stream: started","id":"fa8dkcpu"}
+{"time":"2025-01-31T17:02:58.4003513+01:00","level":"INFO","msg":"sender: started","stream_id":"fa8dkcpu"}
+{"time":"2025-01-31T17:02:58.4008864+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fa8dkcpu"}}
+{"time":"2025-01-31T17:02:58.4003513+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"fa8dkcpu"}}
+{"time":"2025-01-31T17:02:58.884763+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-31T17:02:59.4190971+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T17:07:36.362579+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T17:07:36.3880911+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T17:11:32.6385083+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T17:11:33.3543067+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T17:11:38.5031432+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T17:11:38.5071996+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T17:11:41.7645231+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T17:11:42.283535+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T17:12:39.3081209+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T17:12:40.93982+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-31T17:12:40.9413969+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-31T17:12:41.9407614+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":1.1175743},{"desc":"updating run config","runtime_seconds":1.002717}],"total_operations":2}}
+{"time":"2025-01-31T17:12:42.5868311+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-01-31T17:12:42.5868311+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-01-31T17:12:42.5868311+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-01-31T17:12:44.2477901+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-31T17:12:45.5361782+01:00","level":"INFO","msg":"stream: closing","id":"fa8dkcpu"}
+{"time":"2025-01-31T17:12:45.5361782+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"fa8dkcpu"}}
+{"time":"2025-01-31T17:12:45.5361782+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fa8dkcpu"}}
+{"time":"2025-01-31T17:12:45.5361782+01:00","level":"INFO","msg":"sender: closed","stream_id":"fa8dkcpu"}
+{"time":"2025-01-31T17:12:45.5366859+01:00","level":"INFO","msg":"stream: closed","id":"fa8dkcpu"}

@@ -1,0 +1,20 @@
+{"time":"2024-11-13T12:14:41.4361395+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-13T12:14:41.4361395+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241113_121441-5x51rpsh\\logs\\debug-core.log"}
+{"time":"2024-11-13T12:14:41.5458203+01:00","level":"INFO","msg":"created new stream","id":"5x51rpsh"}
+{"time":"2024-11-13T12:14:41.5463325+01:00","level":"INFO","msg":"stream: started","id":"5x51rpsh"}
+{"time":"2024-11-13T12:14:41.5463325+01:00","level":"INFO","msg":"sender: started","stream_id":"5x51rpsh"}
+{"time":"2024-11-13T12:14:41.5463325+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"5x51rpsh"}}
+{"time":"2024-11-13T12:14:41.5463325+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"5x51rpsh"}}
+{"time":"2024-11-13T12:14:42.4041619+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-13T12:14:42.8764832+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-13T12:14:42.8769893+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-13T12:14:43.8837758+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.4168385},{"desc":"uploading media\\images\\Accuracy graph at 200 epochs_0_304969027f32b9fc5762.png","runtime_seconds":0.0493525,"progress":"35.4KB/35.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0497587,"progress":"352B/352B"}],"total_operations":3}}
+{"time":"2024-11-13T12:14:44.1834036+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-13T12:14:44.1839358+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-13T12:14:44.1840213+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-13T12:14:45.6214183+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-13T12:14:47.2820449+01:00","level":"INFO","msg":"stream: closing","id":"5x51rpsh"}
+{"time":"2024-11-13T12:14:47.2820449+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"5x51rpsh"}}
+{"time":"2024-11-13T12:14:47.2820449+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"5x51rpsh"}}
+{"time":"2024-11-13T12:14:47.2820449+01:00","level":"INFO","msg":"sender: closed","stream_id":"5x51rpsh"}
+{"time":"2024-11-13T12:14:47.2825515+01:00","level":"INFO","msg":"stream: closed","id":"5x51rpsh"}

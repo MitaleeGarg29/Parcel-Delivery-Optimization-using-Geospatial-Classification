@@ -1,0 +1,46 @@
+{"time":"2024-12-09T14:20:13.5104769+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-12-09T14:20:13.5104769+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241209_142013-uew8629w\\logs\\debug-core.log"}
+{"time":"2024-12-09T14:20:13.6273918+01:00","level":"INFO","msg":"created new stream","id":"uew8629w"}
+{"time":"2024-12-09T14:20:13.6273918+01:00","level":"INFO","msg":"stream: started","id":"uew8629w"}
+{"time":"2024-12-09T14:20:13.6273918+01:00","level":"INFO","msg":"sender: started","stream_id":"uew8629w"}
+{"time":"2024-12-09T14:20:13.6273918+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"uew8629w"}}
+{"time":"2024-12-09T14:20:13.6273918+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"uew8629w"}}
+{"time":"2024-12-09T14:20:13.9600085+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-09T14:20:14.393546+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:14.4062163+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:14.4416935+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:14.4507594+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:15.9741433+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:16.0044134+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:17.4184605+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:17.4301963+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:17.4455885+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:17.4560999+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:18.2444411+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:18.2577949+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:19.7235126+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:19.7384068+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:19.7639898+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:19.7750201+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:20.7010561+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:20.720338+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:22.0221631+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:22.0347143+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:22.0572849+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:22.0709929+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:22.6683521+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:22.6818228+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:23.7043844+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:20:23.768028+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:20:23.7740528+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-09T14:20:23.7747448+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-09T14:20:24.0091571+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-12-09T14:20:24.0091571+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-12-09T14:20:24.0091571+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-09T14:20:24.5033725+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-09T14:20:24.7427692+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-12-09T14:20:25.7670064+01:00","level":"INFO","msg":"stream: closing","id":"uew8629w"}
+{"time":"2024-12-09T14:20:25.7670064+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"uew8629w"}}
+{"time":"2024-12-09T14:20:25.7670064+01:00","level":"INFO","msg":"sender: closed","stream_id":"uew8629w"}
+{"time":"2024-12-09T14:20:25.7670064+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"uew8629w"}}
+{"time":"2024-12-09T14:20:25.7670064+01:00","level":"INFO","msg":"stream: closed","id":"uew8629w"}

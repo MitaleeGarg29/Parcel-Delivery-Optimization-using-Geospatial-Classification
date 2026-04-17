@@ -1,0 +1,20 @@
+{"time":"2024-12-16T14:39:08.727934+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-12-16T14:39:08.727934+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241216_143908-ikadxb11\\logs\\debug-core.log"}
+{"time":"2024-12-16T14:39:08.8485787+01:00","level":"INFO","msg":"created new stream","id":"ikadxb11"}
+{"time":"2024-12-16T14:39:08.8485787+01:00","level":"INFO","msg":"stream: started","id":"ikadxb11"}
+{"time":"2024-12-16T14:39:08.8485787+01:00","level":"INFO","msg":"sender: started","stream_id":"ikadxb11"}
+{"time":"2024-12-16T14:39:08.8485787+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ikadxb11"}}
+{"time":"2024-12-16T14:39:08.8485787+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ikadxb11"}}
+{"time":"2024-12-16T14:39:09.1278906+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T14:39:09.6527732+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T14:39:09.6532286+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T14:39:09.9303292+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-12-16T14:39:09.9308367+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-12-16T14:39:09.9308367+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-16T14:39:10.4687551+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T14:39:10.6579543+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-12-16T14:39:11.6747909+01:00","level":"INFO","msg":"stream: closing","id":"ikadxb11"}
+{"time":"2024-12-16T14:39:11.6747909+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ikadxb11"}}
+{"time":"2024-12-16T14:39:11.6747909+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ikadxb11"}}
+{"time":"2024-12-16T14:39:11.6747909+01:00","level":"INFO","msg":"sender: closed","stream_id":"ikadxb11"}
+{"time":"2024-12-16T14:39:11.6747909+01:00","level":"INFO","msg":"stream: closed","id":"ikadxb11"}

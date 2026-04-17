@@ -1,0 +1,38 @@
+{"time":"2025-02-01T20:02:02.6243006+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-02-01T20:02:02.6243006+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20250201_200202-wljz3aav\\logs\\debug-core.log"}
+{"time":"2025-02-01T20:02:03.1312718+01:00","level":"INFO","msg":"created new stream","id":"wljz3aav"}
+{"time":"2025-02-01T20:02:03.1312718+01:00","level":"INFO","msg":"stream: started","id":"wljz3aav"}
+{"time":"2025-02-01T20:02:03.1322605+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wljz3aav"}}
+{"time":"2025-02-01T20:02:03.1322605+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wljz3aav"}}
+{"time":"2025-02-01T20:02:03.1332136+01:00","level":"INFO","msg":"sender: started","stream_id":"wljz3aav"}
+{"time":"2025-02-01T20:02:03.6027842+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-01T20:02:04.4339575+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T20:02:04.4491437+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T20:02:04.4842012+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T20:02:04.5045058+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T20:02:05.0340559+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T20:02:05.0504668+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T20:02:06.0605473+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T20:02:06.0800725+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T20:02:10.6916571+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T20:02:10.7098637+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T20:02:10.7342103+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T20:02:10.7474575+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T20:02:11.4806949+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T20:02:11.4972818+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T20:02:16.9767632+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T20:02:19.0422991+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T20:02:19.0466473+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T20:02:21.0767288+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T20:02:21.0938194+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-01T20:02:21.0948093+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-01T20:02:21.2777572+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-01T20:02:21.2777572+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-01T20:02:21.2777572+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-01T20:02:21.7671914+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-01T20:02:22.0020252+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-02-01T20:02:23.0327141+01:00","level":"INFO","msg":"stream: closing","id":"wljz3aav"}
+{"time":"2025-02-01T20:02:23.0327141+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"wljz3aav"}}
+{"time":"2025-02-01T20:02:23.0327141+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wljz3aav"}}
+{"time":"2025-02-01T20:02:23.0327141+01:00","level":"INFO","msg":"sender: closed","stream_id":"wljz3aav"}
+{"time":"2025-02-01T20:02:23.0327141+01:00","level":"INFO","msg":"stream: closed","id":"wljz3aav"}

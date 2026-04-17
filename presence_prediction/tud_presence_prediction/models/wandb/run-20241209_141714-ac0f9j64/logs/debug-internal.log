@@ -1,0 +1,46 @@
+{"time":"2024-12-09T14:17:14.3837156+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-12-09T14:17:14.3837156+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241209_141714-ac0f9j64\\logs\\debug-core.log"}
+{"time":"2024-12-09T14:17:14.5013467+01:00","level":"INFO","msg":"created new stream","id":"ac0f9j64"}
+{"time":"2024-12-09T14:17:14.5013467+01:00","level":"INFO","msg":"stream: started","id":"ac0f9j64"}
+{"time":"2024-12-09T14:17:14.5013467+01:00","level":"INFO","msg":"sender: started","stream_id":"ac0f9j64"}
+{"time":"2024-12-09T14:17:14.5013467+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ac0f9j64"}}
+{"time":"2024-12-09T14:17:14.5013467+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ac0f9j64"}}
+{"time":"2024-12-09T14:17:15.6350368+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-09T14:17:15.9588692+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:15.9669378+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:15.9859212+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:15.9944605+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:17.0347418+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:17.0722296+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:17.9152638+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:17.9269809+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:17.9423015+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:17.9517292+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:18.4023929+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:18.4182727+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:19.3348532+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:19.3504043+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:19.3678211+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:19.3781659+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:20.0757855+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:20.0917788+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:21.0220031+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:21.0350081+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:21.0890862+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:21.1228051+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:21.8199561+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:21.8362447+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:22.8919769+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T14:17:22.9281784+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T14:17:22.9281784+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-09T14:17:22.9310157+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-09T14:17:23.1938569+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-12-09T14:17:23.1938569+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-12-09T14:17:23.1938569+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-09T14:17:23.9355518+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":7.8775006},{"desc":"uploading requirements.txt","runtime_seconds":7.8775006},{"desc":"uploading media\\images\\ Indivdual User Train Loss_0_d069ca697cf582bda80a.png","runtime_seconds":6.8841001},{"desc":"uploading media\\images\\Indivdual User Train Loss (Smooth)_1_eb2aab9f8bfdbc1d0f2e.png","runtime_seconds":5.9096926},{"desc":"uploading media\\images\\Individual User Train Recall (Smooth)_2_06b25c0e7e2cd287be3b.png","runtime_seconds":4.6654107},{"desc":"uploading media\\images\\Indivdual User Train Best_F1 _3_1aa99a18cd4c3dd9df60.png","runtime_seconds":3.9411851},{"desc":"uploading media\\images\\Indivdual User Train Best_F1 (Smooth) _4_4373fcc0ea53922a2592.png","runtime_seconds":2.9554603},{"desc":"uploading media\\images\\Indivdual User Train Precision _5_58e640f49417ed3682d7.png","runtime_seconds":2.2194754},{"desc":"uploading media\\images\\Indivdual User Train Precision (Smooth) _6_3f13e8bf175d0d8f8d03.png","runtime_seconds":0.9631505},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7433375}],"total_operations":12}}
+{"time":"2024-12-09T14:17:28.4024863+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-09T14:17:29.6428702+01:00","level":"INFO","msg":"stream: closing","id":"ac0f9j64"}
+{"time":"2024-12-09T14:17:29.6428702+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ac0f9j64"}}
+{"time":"2024-12-09T14:17:29.6428702+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ac0f9j64"}}
+{"time":"2024-12-09T14:17:29.6428702+01:00","level":"INFO","msg":"sender: closed","stream_id":"ac0f9j64"}
+{"time":"2024-12-09T14:17:29.6428702+01:00","level":"INFO","msg":"stream: closed","id":"ac0f9j64"}

@@ -1,0 +1,8 @@
+{"time":"2024-12-17T15:12:12.3952587+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-12-17T15:12:12.3952587+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241217_151210-cm50k3qf\\logs\\debug-core.log"}
+{"time":"2024-12-17T15:12:12.5102135+01:00","level":"INFO","msg":"created new stream","id":"cm50k3qf"}
+{"time":"2024-12-17T15:12:12.5102135+01:00","level":"INFO","msg":"stream: started","id":"cm50k3qf"}
+{"time":"2024-12-17T15:12:12.5102135+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"cm50k3qf"}}
+{"time":"2024-12-17T15:12:12.5102135+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cm50k3qf"}}
+{"time":"2024-12-17T15:12:12.5102135+01:00","level":"INFO","msg":"sender: started","stream_id":"cm50k3qf"}
+{"time":"2024-12-17T15:12:12.7812642+01:00","level":"INFO","msg":"Starting system monitor"}

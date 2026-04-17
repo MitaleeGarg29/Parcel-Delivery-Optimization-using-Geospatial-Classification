@@ -1,0 +1,20 @@
+{"time":"2024-11-13T12:17:18.1193159+01:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-13T12:17:18.1193159+01:00","level":"INFO","msg":"created symlink","path":"d:\\TU Darmstadt\\Thesis\\presence_prediction\\tud_presence_prediction\\models\\wandb\\run-20241113_121718-64b7k7h5\\logs\\debug-core.log"}
+{"time":"2024-11-13T12:17:18.2297956+01:00","level":"INFO","msg":"created new stream","id":"64b7k7h5"}
+{"time":"2024-11-13T12:17:18.2303068+01:00","level":"INFO","msg":"stream: started","id":"64b7k7h5"}
+{"time":"2024-11-13T12:17:18.2303068+01:00","level":"INFO","msg":"sender: started","stream_id":"64b7k7h5"}
+{"time":"2024-11-13T12:17:18.2303068+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"64b7k7h5"}}
+{"time":"2024-11-13T12:17:18.2303068+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"64b7k7h5"}}
+{"time":"2024-11-13T12:17:18.9771759+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-13T12:17:19.3848178+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-13T12:17:19.3853324+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-13T12:17:20.2630498+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-13T12:17:20.2630498+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-13T12:17:20.2630498+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-13T12:17:20.3966489+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\ AUC-PR Progression Over 200 Epochs (Smoothed)_0_bd535d2a470267e2aa0b.png","runtime_seconds":0.0910378,"progress":"34.2KB/34.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0910378,"progress":"388B/388B"}],"total_operations":2}}
+{"time":"2024-11-13T12:17:21.1406975+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-13T12:17:22.6827662+01:00","level":"INFO","msg":"stream: closing","id":"64b7k7h5"}
+{"time":"2024-11-13T12:17:22.6827662+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"64b7k7h5"}}
+{"time":"2024-11-13T12:17:22.6827662+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"64b7k7h5"}}
+{"time":"2024-11-13T12:17:22.6827662+01:00","level":"INFO","msg":"sender: closed","stream_id":"64b7k7h5"}
+{"time":"2024-11-13T12:17:22.6827662+01:00","level":"INFO","msg":"stream: closed","id":"64b7k7h5"}

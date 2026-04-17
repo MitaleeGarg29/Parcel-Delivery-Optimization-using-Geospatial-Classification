@@ -1,0 +1,8 @@
+Column Names: Index(['train_accuracy_step', 'train_precision_step', 'train_loss_step',
+       'epoch', 'step', 'lr-AdamW', 'val_optimal_recall', 'val_loss',
+       'val_auc_pr', 'val_accuracy', 'val_precision', 'val_recall',
+       'val_best_f1', 'val_optimal_precision', 'val_optimal_threshold',
+       'train_precision_epoch', 'train_auc_pr', 'train_loss_epoch',
+       'train_recall', 'optimal_precision', 'best_f1', 'optimal_recall',
+       'learning_rate', 'optimal_threshold', 'train_accuracy_epoch'],
+      dtype='object')

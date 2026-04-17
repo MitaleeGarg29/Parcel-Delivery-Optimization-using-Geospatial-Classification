@@ -1,0 +1,9 @@
+Available columns: Index(['lr-AdamW', 'step', 'train_loss_step', 'train_precision_step',
+       'train_auc_pr_step', 'train_best_f1_step', 'train_accuracy_step',
+       'epoch', 'train_recall_step', 'train_optimal_threshold_step',
+       'val_recall', 'val_optimal_threshold', 'val_best_f1', 'val_precision',
+       'val_loss', 'val_auc_pr', 'val_accuracy', 'train_best_f1_epoch',
+       'train_auc_pr_epoch', 'train_recall_epoch', 'train_loss_epoch',
+       'train_precision_epoch', 'train_accuracy_epoch',
+       'train_optimal_threshold_epoch', 'learning_rate'],
+      dtype='object')
